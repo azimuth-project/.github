@@ -2,6 +2,8 @@ Sharing innovative ideas on how to mathematically model the earth's behavior, in
 
 Go to the [discussion forum](https://github.com/orgs/azimuth-project/discussions) to share your ideas.
 
+
+👩‍💻 [Wayback Machine archive](https://web.archive.org/web/20190130165945/http://azimuthproject.org/azimuth/show/Azimuth+Project)
 <!--
 
 **Here are some ideas to get you started:**

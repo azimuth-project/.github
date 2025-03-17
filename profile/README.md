@@ -2,10 +2,11 @@ Sharing innovative ideas on how to mathematically model the earth's behavior, in
 
 Go to the [discussion forum](https://github.com/orgs/azimuth-project/discussions) to share your ideas.
 
+FYI, one can write mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-👩‍💻 [Wayback Machine archive](https://web.archive.org/web/20190130165945/http://azimuthproject.org/azimuth/show/Azimuth+Project)
+👩‍💻 [Wayback Machine archive](https://web.archive.org/web/20190130165945/http://azimuthproject.org/azimuth/show/Azimuth+Project) of the original Azimuth project discussion forum.
+
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?

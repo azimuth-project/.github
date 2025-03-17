@@ -1,6 +1,6 @@
 Sharing innovative ideas on how to mathematically model the earth's behavior, including climate and geophysics.
 
-Go to the [discussion forum](https://github.com/orgs/azimuth-project/discussions) to share your ideas.
+Go to the [discussion forum](https://github.com/orgs/azimuth-project/discussions) to share your ideas, pinned discussions listed at the top.
 
 FYI, one can write mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
